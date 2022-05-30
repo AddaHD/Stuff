@@ -1,0 +1,22 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": {
+            "web": "https://www.kicad.org/about/contact-us/"
+        },
+        "name": "KiCad team"
+    },
+    "name": "KiCad official repository",
+    "packages": {
+        "sha256": "3aae503a348062d26507dc1142a641fd15a3c74f233e6c793ba4e10f785864e5",
+        "update_time_utc": "2022-05-25 11:04:16",
+        "update_timestamp": 1653476656,
+        "url": "https://gitlab.com/kicad/addons/repository/-/raw/main/packages.json"
+    },
+    "resources": {
+        "sha256": "7f504c1a5e05c7081d09fa255cb9e0df047075364fa75ae08e1daf651d094895",
+        "update_time_utc": "2022-05-25 11:04:15",
+        "update_timestamp": 1653476655,
+        "url": "https://gitlab.com/kicad/addons/repository/-/jobs/artifacts/main/raw/artifacts/resources.zip?job=update"
+    }
+}
